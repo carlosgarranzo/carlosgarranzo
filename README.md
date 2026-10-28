@@ -1,16 +1,31 @@
-## Hola a todos 👋
+# Hola, soy Carlos
 
-<!--
-**carlosgarranzo/carlosgarranzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy graduado en ADE por la Universitat de València y estoy reorientando mi carrera hacia el análisis de datos y la inteligencia artificial. Ahora mismo estudio el Máster en IA, Big Data y Cloud en EDEM Escuela de Empresarios (2026-2027).
 
-Here are some ideas to get you started:
+Vivo en Valencia y trabajo en español, francés (DALF C1) e inglés.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Un poco de contexto
+
+Antes de dar el salto a datos pasé ocho meses en el área de Tesorería y Riesgos de Lãberit, una consultora tecnológica. Allí trabajé con Microsoft Dynamics 365 Business Central, llevé conciliaciones bancarias, facturación de clientes y proveedores y seguimiento de cobros y pagos.
+
+Esa etapa me dio una base sólida de cómo funciona una empresa por dentro, y es justo lo que quiero aprovechar ahora: entender el negocio y usar los datos para tomar mejores decisiones.
+
+## Qué estoy aprendiendo
+
+- Python para análisis de datos y machine learning
+- SQL
+- Google Cloud Platform
+- Fundamentos de data engineering
+
+## Herramientas
+
+Python, SQL, Pandas, scikit-learn, Excel, Git, IntelliJ IDEA y Google Cloud Platform.
+
+## Certificaciones
+
+- Data Analysis with Python, IBM (Coursera)
+- Programming for Everybody (Getting Started with Python), Coursera
+- DALF C1, Liceo Francés Internacional de Tenerife
+
+
+
