@@ -120,12 +120,3 @@ timeline
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:164E63,100:0F172A&height=120&section=footer" />
 
 </div>
-
-
-<div align="center">
-
-<sub>📍 Valencia, Spain &nbsp;·&nbsp; 🗣️ Spanish · French (C1) · English</sub>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:164E63,100:0F172A&height=120&section=footer" />
-
-</div>
