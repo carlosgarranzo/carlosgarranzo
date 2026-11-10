@@ -1,11 +1,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:164E63&height=180&section=header&text=Carlos%20Garranzo&fontSize=46&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=Data%20Analytics%20%7C%20Artificial%20Intelligence&descAlignY=62&descSize=16&descColor=BAE6FD" />
-
-<a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=550&lines=Business+Administration+Graduate;Aspiring+Data+Analyst;Exploring+Machine+Learning+%26+AI" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:164E63&height=180&section=header&text=Carlos%20Garranzo&fontSize=46&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=Business%20Administration%20%7C%20AI%2C%20Big%20Data%20%26%20Cloud&descAlignY=62&descSize=16&descColor=38BDF8" />
 
 </div>
 
@@ -75,20 +71,6 @@ Universitat de València
 | Programming for Everybody | Coursera |
 | DALF C1 | Liceo Francés Internacional de Tenerife |
 
-## GitHub Statistics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=arlosgarranzo&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arlosgarranzo&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" />
-
-<br/>
-
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=arlosgarranzo&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=8B949E" />
-
-</div>
-
 ---
 
 <div align="center">
@@ -96,5 +78,4 @@ Universitat de València
 <sub>Valencia, Spain · Spanish · French (C1) · English</sub>
 
 </div>
-
 
