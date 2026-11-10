@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0F172A,50:0E3A4F,100:164E63&height=240&section=header&text=Carlos%20Garranzo&fontSize=56&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Business%20Administration%20%7C%20AI%2C%20Big%20Data%20and%20Cloud&descAlignY=60&descSize=17&descColor=38BDF8" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0E3A4F,100:164E63&height=220&section=header&text=Carlos%20Garranzo&fontSize=48&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Business%20Administration%20%7C%20AI%2C%20Big%20Data%20and%20Cloud&descAlignY=58&descSize=16&descColor=38BDF8" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&height=50&lines=Business+Administration+Graduate;Transitioning+into+Data+and+Artificial+Intelligence;Python+%C2%B7+SQL+%C2%B7+Machine+Learning+%C2%B7+GCP;Turning+business+knowledge+into+data-driven+decisions" alt="Typing animation" />
@@ -112,6 +112,15 @@ timeline
 ```
 
 ---
+
+<div align="center">
+
+<sub>📍 Valencia, Spain &nbsp;·&nbsp; 🗣️ Spanish · French (C1) · English</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:164E63,100:0F172A&height=120&section=footer" />
+
+</div>
+
 
 <div align="center">
 
