@@ -102,25 +102,6 @@ class Carlos:
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=false&bg_color=0F172A&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&border_color=164E63&border_radius=12" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=false&bg_color=0F172A&title_color=38BDF8&text_color=CBD5E1&border_color=164E63&border_radius=12" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=TU_USUARIO&background=0F172A&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8&stroke=164E63&border=164E63&hide_border=false&border_radius=12" />
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&bg_color=0F172A&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&area_color=164E63&hide_border=true&radius=12" />
-
-</div>
-
----
-
 ## 🗺️ Roadmap
 
 ```mermaid
